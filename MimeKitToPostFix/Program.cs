@@ -27,7 +27,6 @@ namespace MimeKitToPostFix {
 				},
 				RedirectStandardInput = true
 			});
-			sendmail.Start();
 
 			await message.WriteToAsync(sendmail.StandardInput.BaseStream);
 
