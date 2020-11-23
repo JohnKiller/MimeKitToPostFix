@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MimeKitToPostFix", "MimeKitToPostFix\MimeKitToPostFix.csproj", "{9FCFC78E-6D97-4B94-B5E8-3CB41D4F7DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FCFC78E-6D97-4B94-B5E8-3CB41D4F7DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCFC78E-6D97-4B94-B5E8-3CB41D4F7DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCFC78E-6D97-4B94-B5E8-3CB41D4F7DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCFC78E-6D97-4B94-B5E8-3CB41D4F7DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B503A79-1746-4999-B86A-4B33EBC97B48}
+	EndGlobalSection
+EndGlobal
